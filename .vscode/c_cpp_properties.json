@@ -4,6 +4,7 @@
             "name": "ESP32-Win",
             "includePath": [
                 "${workspaceRoot}",
+                "${workspaceRoot}/include",
                 "${workspaceRoot}/components",
                 "${workspaceRoot}/build",
                 "${workspaceRoot}/build/include",
